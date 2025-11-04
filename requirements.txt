@@ -1,0 +1,9 @@
+flask
+requests
+pandas
+matplotlib
+selenium
+undetected-chromedriver
+pdfplumber
+python-dotenv
+playwright
